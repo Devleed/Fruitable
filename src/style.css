@@ -1,0 +1,8 @@
+html,
+body {
+  height: 100%;
+}
+
+.ui.card > .image > img {
+  height: 100%;
+}
